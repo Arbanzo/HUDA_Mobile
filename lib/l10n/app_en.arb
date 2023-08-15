@@ -1,0 +1,578 @@
+{
+  "language": "English",
+  "@language":{
+    "description": "The current language"
+  },
+  "careProvided": "Care Provided",
+  "@careProvided": {
+    "description": "Button title"
+  },
+  "whoWeare": "Who We Are",
+  "@whoWeare": {
+    "description": "Button title"
+  },
+  "ourPartners": "Our Partners",
+  "@ourPartners": {
+    "description": "Button title"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button title"
+  },
+  "regButton": "New Patient? Click here to register",
+  "@regButton": {
+    "description": "Registration button"
+  },
+  "regTerms": "Registration Terms",
+  "@regTerms": {
+    "description": "Registration term page banner"
+  },
+  "inprReq": "In-Person Registration Requirment",
+  "@inprReq": {
+    "description": "Registration term page"
+  },
+  "regTermsBody": "The HUDA Clinic Mobile registration process is the first step in becoming a registered patient. Following completion of all five forms, new patients must finalize their registration by going to the HUDA clinic for the last processing steps.",
+  "@regTermsBody": {
+    "description": "Registration term page body text"
+  },
+  "regTermsBody2": "By clicking the button below, you acknowledge that as a new patient, you are required to report in-person to the HUDA Clinic to finalize their submitted registration forms.",
+  "@regTermsBody2": {
+    "description": "Registration term page body text"
+  },
+  "regTermsAck": "I Acknowledge",
+  "@regTermsAck": {
+    "description": "Registration term page button"
+  },
+  "form1Bar": "Form 1: Personal Information",
+  "@form1Bar": {
+    "description": "form 1"
+  },
+  "form1PI": "Personal Information",
+  "@form1PI": {
+    "description": "form 1"
+  },
+  "firstName": "First Name",
+  "@firstName": {
+    "description": "field"
+  },
+  "lastName": "Last Name",
+  "@lastName": {
+    "description": "field"
+  },
+  "sex": "Sex",
+  "@sex": {
+    "description": "field"
+  },
+  "insurance": "Insurance (Type NA if uninsured)",
+  "@insurance": {
+    "description": "field"
+  },
+  "form1CI": "Contact Information",
+  "@form1CI": {
+    "description": "field"
+  },
+  "phone": "Phone Number",
+  "@phone": {
+    "description": "field"
+  },
+  "callConsent": "Consent to Call?",
+  "@callConsent": {
+    "description": "field"
+  },
+  "textConsent": "Consent to Text?",
+  "@textConsent": {
+    "description": "field"
+  },
+  "form1Empl": "Employment and Income",
+  "@form1Empl": {
+    "description": "field"
+  },
+  "maritalStatus": "Marital Status",
+  "@maritalStatus": {
+    "description": "field"
+  },
+  "householdSize": "Household Size",
+  "@householdSize": {
+    "description": "field"
+  },
+  "emplStat": "Employment Status",
+  "@emplStat": {
+    "description": "field"
+  },
+  "income": "Income",
+  "@income": {
+    "description": "Income"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "field"
+  },
+  "stAddress": "Street Address",
+  "@stAddress": {
+    "description": "field"
+  },
+  "city": "City",
+  "@city": {
+    "description": "field"
+  },
+  "state": "state",
+  "@state": {
+    "description": "field"
+  },
+  "zip": "Zip Code",
+  "@zip": {
+    "description": "field"
+  },
+  "f1Terms": "Form Terms",
+  "@f1Terms": {
+    "description": "field"
+  },
+  "f1Text": "I voluntarily accept treatment/counseling as recommended and explained by the HUDA staff. I understand that I am free to withdraw my consent and discontinue treatment at any time. In addition, I have been informed of my rights as a recipient of free services provided by the HUDA Clinic. I have been advised on the HUDA Clinic's NO CALL NO SHOW policy regarding primary care and specialty services and agree to follow it. Further, I have been advised of the Federal Confidentiality Regulation and been given a copy of the notice to review.",
+  "@f1Text": {
+    "description": "field"
+  },
+  "patientName": "Patient Name",
+  "@patientName": {
+    "description": "field"
+  },
+  "nextForm": "Next Form",
+  "@nextForm": {
+    "description": "field"
+  },
+  "fieldReq": "This field is required",
+  "@fieldReq": {
+    "description": "field"
+  },
+  "form2Bar": "Form 2: Patient Contract",
+  "@form2Bar": {
+    "description": "form 2 bar"
+  },
+  "form2Auth": "Authorization for medical treatment at a clinic. READ CAREFULLY - THIS IS A CONTRACT",
+  "@form2Auth": {
+    "description": "form 2 auth"
+  },
+  "form2Body": "I consent to receiving services at the Health Unit on Davison Avenue, henceforth referred to as HUDA Clinic. Services may include assessment, routine diagnostic procedures, medications, lab tests, and appropriate medical treatment as the attending Physician/Nurse practitioner/Physician's Assistant considers necessary for my care. I understand that the practice of medicine is not an exact science and I acknowledge that I have received no guarantees regarding the result of examination or treatment at this clinic.\n\nI understand that the services I receive at HUDA Clinic or because of a referral from HUDA Clinic are being provided by health care practitioners and lay volunteers who are not receiving compensation and compensation will not be requested from any source. I understand, as provided by Federal and Michigan State Law (Michigan Public Health Code. MCL 333.16277), that these volunteers are not liable for civil damages because of acts or omissions which may occur while providing services to me. I understand that any fees incurred for referrals or any orders to an outside facility, from HUDA Clinic are my responsibility.\n\nI agree to be tested for blood borne pathogens in case of inadvertent exposure to blood and/or body fluids as recommended by the Centers for Disease Control. I understand that any verbally abusive or threatening behavior to the clinic staff or other patients is grounds for the termination of clinic services. Falsifying my income or medical insurance information, whether private or public provided, is grounds for termination of clinic services.",
+  "@form2Body": {
+    "description": "form 2 body"
+  },
+  "form2Body2": "I understand HUDA Clinic's No Call No Show policy which states for Primary care:",
+  "@form2Body2": {
+    "description": "form 2 body"
+  },
+  "form2A": "A. If I do not keep a scheduled appointment and do not call to cancel or reschedule with reasonable notice, I will only be eligible to be seen as a Walk-In for the following visit.",
+  "@form2A": {
+    "description": "form 2 A"
+  },
+  "form2B": "B. If I have 3 or more No Call No Shows in a 12-month period, I could face termination of clinic services. understand HUDA Clinic's No Call No Show policy for Specialty Care (All appointments that are NOT primary care including., but not limited to Dental, Endocrinology, Psychiatry, ENT Optometry... etc.",
+  "@form2B": {
+    "description": "form 2 B"
+  },
+  "form2C": "C. If I do not keep a scheduled appointment and do not call to cancel or reschedule with a reasonable time, I will need to find alternatives for my specialty care needs.",
+  "@form2C": {
+    "description": "form 2 C"
+  },
+  "form2D": "D. If I do not keep 2 scheduled specialty care appointments within a 6-month period, you won't be permitted to schedule further specialty services and could face termination of clinic services.",
+  "@form2D": {
+    "description": "form 2 D"
+  },
+  "form2sig": "My signature below constitutes my acknowledgement that I understand this request for consent and that I agree to its contents.",
+  "@form2sig": {
+    "description": "form 2 signature"
+  },
+  "form3bar": "Form 3: Authorization",
+  "@form3bar": {
+    "description": "form 3 bar"
+  },
+  "form3auth": "HUDA Authorization for Release of Information",
+  "@form3auth": {
+    "description": "Form 3 Auth"
+  },
+  "form3body": "Occasionally it is necessary for the HUDA Clinic to consult with other providers, such as specialists or other facilities, such as hospitals or labs to provide you, our patient, with what our providers believe to be the most appropriate course of action for your treatment. By signing this form, you give us, HUDA Clinic, permission to share your pertinent medical information with other providers/ facilities to best complete your treatment or request medical records from previous providers on your behalf.",
+  "@form3body": {
+    "description": "Form 3 body"
+  },
+  "form3body2": "I, the patient, hereby authorize HUDA Clinic and its affiliates, its employees and agents, to use and disclose protected health information e.g. information relating to the diagnosis, treatment, and health care services provided or to be provided to me and which identifies my name, address, social security number, date of birth) for the purpose of health information or other information released to the person or organization identified above may be subject to re-disclosure by such person/ organization and may be no longer protected by applicable federal and state privacy laws.\n\nI understand that I have a right to revoke this authorization by providing written notice to HUDA Clinic at any time. However, this authorization may not be revoked if its employees or agents have taken action on this authorization prior to receiving my written notice. I also understand I have the right to have a copy of this authorization.\n\nI further understand that this authorization is voluntary and that I may refuse to sign this authorization. I also understand that should I refuse to sign this form I greatly limit the services that HUDA Clinic will be able to perform for me.",
+  "@form3body2": {
+    "description": "Form 3 body"
+  },
+  "form3body3": "We take protecting your identity very seriously and do not share any unnecessary information with any of our partners.",
+  "@form3body3": {
+    "description": "Form 3 body"
+  },
+  "form4bar": "Form 4: Personal Representative",
+  "@form4bar": {
+    "description": "Form 4 body"
+  },
+  "form4des": "Designation of Personal Representative",
+  "@form4des": {
+    "description": "Form 4 body"
+  },
+  "form4body1": "Completing this form allows the person designated to receive protected health information (PHI) such as test results. It also permits the respresentative to request and receive a patient's medical records.",
+  "@form4body1": {
+    "description": "Form 4 body"
+  },
+  "form4body2": "A personal representative is not the same as a healthcare agent who is allowed to make medical decisions on your behalf.",
+  "@form4body2": {
+    "description": "Form 4 body"
+  },
+  "form4body3": "I designate the following person(s) below as my personal representatives) and understand and acknowledge that this designation gives the Personal Representative(s) the same power over my protected health information as I have, including the right to inspect my records, authorize disclosures and request restrictions and amendments. I hereby waive any restrictions on my personal representative(s)' access to my protected health information. I understand that I am not required  to list anyone. I also understand that this designation shall remain in place until such time as I revoke it in writing by letter to the Privacy Officer of HUDA Clinic.",
+  "@form4body3": {
+    "description": "Form 4 body"
+  },
+  "form4relation": "Relationship to patient",
+  "@form4relation": {
+    "description": "Form 4 body"
+  },
+  "form4sig": "My signature below constitutes the following individual(s) as a personal representative",
+  "@form4sig": {
+    "description": "Form 4 body"
+  },
+  "form5bar": "Form 5: Stress Questionaire",
+  "@form5bar": {
+    "description": "Form 5 body"
+  },
+  "form5stress": "Stress Questionaire",
+  "@form5stress": {
+    "description": "Form 5 body"
+  },
+  "form5body1": "Over the last two weeks how often have you been bothered by any of the following problems? Please input the number that applies to you.",
+  "@form5body1": {
+    "description": "Form 5 body"
+  },
+  "form50": "0 = Not at all",
+  "@form50": {
+    "description": "Form 5 body"
+  },
+  "form51": "1 = Several days",
+  "@form51": {
+    "description": "Form 5 body"
+  },
+  "form52": "2 = more than half the days",
+  "@form52": {
+    "description": "Form 5 body"
+  },
+  "form53": "3 = nearly everyday",
+  "@form53": {
+    "description": "Form 5 body"
+  },
+  "form5s1": "Section 1",
+  "@form5s1": {
+    "description": "Form 5 body"
+  },
+  "form5s1q1": "1. Feeling down, depressed or hopeless",
+  "@form5s1q1": {
+    "description": "Form 5 body"
+  },
+  "form5s1q2":  "2. Trouble falling or staying asleep or sleeping too much",
+  "@form5s1q2": {
+    "description": "Form 5 body"
+  },
+  "form5s1q3":  "3. Feeling tired or having little energy",
+  "@form5s1q3": {
+    "description": "Form 5 body"
+  },
+  "form5s1q4":  "4. Poor appetite OR overeating",
+  "@form5s1q4": {
+    "description": "Form 5 body"
+  },
+  "form5s1q5":  "5. Feeling bad about yourself or that you are a failure or have let yourself or your family down",
+  "@form5s1q5": {
+    "description": "Form 5 body"
+  },
+  "form5s1q6":  "6. Trouble concentrating on things such as reading the newspaper or watching television",
+  "@form5s1q6": {
+    "description": "Form 5 body"
+  },
+  "form5s1q7":  "7. Moving or speaking slowly that other people could have noticed OR being so fidgety or restless that you've been moving around a lot more than usual",
+  "@form5s1q7": {
+    "description": "Form 5 body"
+  },
+  "form5s1q8":  "8. Thoughts that you would be better off dead OR hurting yourself in some way",
+  "@form5s1q8": {
+    "description": "Form 5 body"
+  },
+  "form5total":  "Total Score",
+  "@form5total": {
+    "description": "Form 5 body"
+  },
+  "form5s2":  "Section 2",
+  "@form5s2": {
+    "description": "Form 5 body"
+  },
+  "form5s2q1":  "1. Feeling nervous, anxious or on edge",
+  "@form5s2q1": {
+    "description": "Form 5 body"
+  },
+  "form5s2q2":  "2. Not being able to stop or control worrying",
+  "@form5s2q2": {
+    "description": "Form 5 body"
+  },
+  "form5s2q3":  "3. Worrying too much about different things",
+  "@form5s2q3": {
+    "description": "Form 5 body"
+  },
+  "form5s2q4":  "4. Trouble relaxing",
+  "@form5s2q4": {
+    "description": "Form 5 body"
+  },
+  "form5s2q5":  "5. Being so restless that it is hard to sit still",
+  "@form5s2q5": {
+    "description": "Form 5 body"
+  },
+  "form5s2q6":  "6. Becoming easily annoyed or irritable",
+  "@form5s2q6": {
+    "description": "Form 5 body"
+  },
+  "form5s2q7":  "7. Feeling afraid as if something awful might happen",
+  "@form5s2q7": {
+    "description": "Form 5 body"
+  },
+  "form5s3":  "Section 3",
+  "@form5s3": {
+    "description": "Form 5 body"
+  },
+  "form5s3q":  "In your life have you ever had any experience that was so frightening, horrible, or upsetting that in that past month you: (Yes or No)",
+  "@form5s3q": {
+    "description": "Form 5 body"
+  },
+  "form5s3q1":  "1. Have had nightmares about it or thought about it when you did not want to?",
+  "@form5s3q1": {
+    "description": "Form 5 body"
+  },
+  "form5s3q2":  "2. Tried hard not to think about it or went out of your way to avoid situations that remind you of it?",
+  "@form5s3q2": {
+    "description": "Form 5 body"
+  },
+  "form5s3q3":  "3. Were constantly on guard, watchful or easily startled",
+  "@form5s3q3": {
+    "description": "Form 5 body"
+  },
+  "form5s3q4":  "4. Felt numb or detached from others, activities, or your surroundings?",
+  "@form5s3q4": {
+    "description": "Form 5 body"
+  },
+  "form5complete":  "Complete forms",
+  "@form5complete": {
+    "description": "Form 5 body"
+  },
+  "regObar":  "Registration Submission",
+  "@regObar": {
+    "description": "registration "
+  },
+  "regObody":  "Please review your information",
+  "@regObody": {
+    "description": "registration "
+  },
+  "regSub":  "Submit forms",
+  "@regSub": {
+    "description": "registration "
+  },
+  "regcomBar":  "Registration Complete",
+  "@regcomBar": {
+    "description": "registration "
+  },
+  "regcomBody":  "All forms have been submitted to HUDA Clinic. Completing the final step of registration requires you to go in-person.",
+  "@regcomBody": {
+    "description": "registration "
+  },
+  "regcomcallq":  "Have further questions? ",
+  "@regcomcallq": {
+    "description": "registration "
+  },
+  "regcomcall":  "Call the clinic",
+  "@regcomcall": {
+    "description": "registration "
+  },
+  "regcomhours":  "Clinic Hours:\n Sunday: Closed\n Monday: Closed\nTuesday: 8:30AM - 2:00PM\n Wednesday: 8:30AM - 12:00PM\nThursday: 8:30AM - 2:00PM\n Friday: Closed\nSaturday: 8:30AM - 2:00PM",
+  "@regcomhours": {
+    "description": "registration "
+  },
+  "regGo":  "Go to the HUDA Clinic now",
+  "@regGo": {
+    "description": "registration "
+  },
+  "regEnd":  "Return to Login",
+  "@regEnd": {
+    "description": "registration "
+  },
+  "historyOf":  "The history of the HUDA Clinic",
+  "@historyOf": {
+    "description": "Who we are page body"
+  },
+  "whoBody":  "HUDA Clinic first opened its doors in May 2004 to serve the uninsured population of the Detroit area. The clinic initially operated on funds gathered by the Muslim community of Metro Detroit.\n\nWhen it began, the HUDA Clinic provided solely medical services. We then moved from our original facility at the Muslim Center of Detroit into a new, larger facility on Woodrow Wilson Street. Since then, we have expanded our care to include a full range of dental, vision care, podiatry, and mental health services, as well as a plethora of specialty services available at no-cost to our patients. Our new facility has allowed us to expand our services and our service times, but none of that would be possible without the generous support of our donors and volunteers.",
+  "@whoBody": {
+    "description": "Who we are page body"
+  },
+  "homePage":  "Home Page",
+  "@homePage": {
+    "description": "Home page title"
+  },
+  "homePaget1":  "List of patient appointments",
+  "@homePaget1": {
+    "description": "Home page title"
+  },
+  "homePaget2":  "Appointment Confirmation",
+  "@homePaget2": {
+    "description": "Home page title"
+  },
+  "homePaget3":  "List of all departments",
+  "@homePaget3": {
+    "description": "Home page title"
+  },
+  "homePaget4":  "List of all providers",
+  "@homePaget4": {
+    "description": "Home page title"
+  },
+  "fullname":  "Patient Name",
+  "@fullname": {
+    "description": "patient name"
+  },
+  "dob":  "Date of birth",
+  "@dob": {
+    "description": "patient dob"
+  },
+  "contacts":  "Patient Contacts",
+  "@contacts": {
+    "description": "patient contacts"
+  },
+  "rep1":  "Representative 1",
+  "@rep1": {
+    "description": "patient contacts"
+  },
+  "rep2":  "Representative 2",
+  "@rep2": {
+    "description": "patient contacts"
+  },
+  "rep3":  "Representative 3",
+  "@rep3": {
+    "description": "patient contacts"
+  },
+  "pcare":  "Primary Care",
+  "@pcare": {
+    "description": "Primary Care"
+  },
+  "phys":  "Physician",
+  "@phys": {
+    "description": "Physician"
+  },
+  "pcarebody":  "Primary care providers are typically the first line of contact for patients; treating general health concerns, providing education, medications and specialty referrals as needed. HUDA aims to bring primary care and \nspecialized services to uninsured and under-insured in the Metro Detroit area. We provide preventative primary care services in a person-focused community health clinic, our goal is to make Michigan healthier! \n\nThe HUDA clinic provides FREE medications to our patients, and also provides laboratory services at no-cost to our patients.",
+  "@pcarebody": {
+    "description": "Primary care body "
+  },
+  "ha":  "Health Assessments",
+  "@ha": {
+    "description": "HA label "
+  },
+  "labs":  "Laboratory Services (blood work)",
+  "@labs": {
+    "description": "Lab label"
+  },
+  "ds":  "Diabetes Screening & Treatments",
+  "@ds": {
+    "description": "DS label"
+  },
+  "chol":  "Cholesterol & Blood Pressure screenings",
+  "@chol": {
+    "description": "Cholesterol label"
+  },
+  "moreinfo":  "More Information",
+  "@moreinfo": {
+    "description": "More information"
+  },
+  "im":  "Internal Medicine",
+  "@im": {
+    "description": "Internal Medicine"
+  },
+  "vcare":  "Vision Care",
+  "@vcare": {
+    "description": "Vision Care"
+  },
+  "opth":  "Opthalmologist",
+  "@opth": {
+    "description": "Opthalmologist"
+  },
+  "visbody":  "Vision screenings is an effective method to identify individuals with visual impairment or eye conditions that are likely to lead to vision loss. We perform \nscreenings in-house and provide no-cost eye wear and referrals to low-cost local ophthalmologists as needed.",
+  "@visbody": {
+    "description": "Vision Care body"
+  },
+  "gs":  "Glaucoma Screenings",
+  "@gs": {
+    "description": "Glaucoma"
+  },
+  "cs":  "Cataract Screenings",
+  "@cs": {
+    "description": "Cataract"
+  },
+  "mds":  "Macular Degenration Screenings",
+  "@mds": {
+    "description": "macular Degeneration"
+  },
+  "rtvs":  "Referrals to vision specialists",
+  "@rtvs": {
+    "description": "Referrals to vision specialists"
+  },
+  "dcare":  "Dental Care",
+  "@dcare": {
+    "description": "dentalcare"
+  },
+  "dentist":  "Dentist",
+  "@dentist": {
+    "description": "Dentist"
+  },
+  "dcarebody":  "Many people wait to have necessary dental work done \nbecause they don’t have insurance, however small \ndental problems can quickly become incredibly painful \nif left alone. Come in to HUDA for cleanings, fillings, \nextractions and exams to keep your teeth healthy and \nreceive a referral to a specialist if needed.",
+  "@dcarebody": {
+    "description": "Dental body"
+  },
+  "ds":  "Dental Screenings",
+  "@ds": {
+    "description": "Dental screenings"
+  },
+  "xr":  "X-Rays",
+  "@xr": {
+    "description": "xrays"
+  },
+  "dc":  "Deep Cleanings",
+  "@dc": {
+    "description": "deep cleanings"
+  },
+  "te":  "Tooth Extraction",
+  "@te": {
+    "description": "Tooth Extraction"
+  },
+  "denref":  "Referrals to low cost dentists as needed",
+  "@denref": {
+    "description": "Referrals to low cost dentists as needed"
+  },
+  "mentalhealth":  "Mental Health",
+  "@mentalhealth": {
+    "description": "mental health"
+  },
+  "psych":  "Psychiatrist",
+  "@psych": {
+    "description": "psych"
+  },
+  "mentalbody":  "We have psychiatrists on staff along with our licensed \nsocial workers to provide therapy and treatment for a \nwide range of mental health concerns. We offer free \ncounseling and treatment to veterans, homeless, \nuninsured, and the working underinsured. \n\nSince the onset of the Covid-19 pandemic our psychiatry \nservices have transitioned to telemedicine. We currently \nhave 2 Psychiatrists, a Mental Health Nurse Practitioner \nand a Therapist who all volunteer with HUDA Clinic \nallowing us to provide treatment for a wide range of \nmental health concerns.",
+  "@mentalbody": {
+    "description": "mh body"
+  },
+  "ac":  "Adult Counseling",
+  "@ac": {
+    "description": "ac"
+  },
+  "ad":  "Anxiety/Depression",
+  "@ad": {
+    "description": "ad"
+  },
+  "bp":  "Bipolar Disorder",
+  "@bp": {
+    "description": "ad"
+  },
+  "sdm":  "Schizoaffective Disorders, and more",
+  "@sdm": {
+    "description": "ad"
+  },
+  "partnerbody": "We Are Thankful to Our Patrons for Helping Us Provide Free Healthcare to the Metro Detroit Area.",
+  "@partnerbody": {
+    "description": "partner page"
+  }
+}
