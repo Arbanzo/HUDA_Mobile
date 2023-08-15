@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "9613d23567830a17ef7c0588c80cb98ae08bf528c37dbfa80c5f2456f7a4a095"
+build_start_time: [1678321719, 332849025]
+build_end_time: [1678321730, 373879909]
+inputs:
+  "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Flutter/GeneratedPluginRegistrant.swift": [1678321576, 789230823]
+  "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Runner/AppDelegate.swift": [1675474285, 538461923]
+  "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Runner/MainFlutterWindow.swift": [1675474285, 540429592]
