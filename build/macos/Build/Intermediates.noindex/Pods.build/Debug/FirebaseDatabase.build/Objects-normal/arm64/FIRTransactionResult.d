@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Api/FIRTransactionResult.m \
+  /Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseDatabase.build/module.modulemap \
+  /Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRTransactionResult.h \
+  /Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRMutableData.h \
+  /Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Api/Private/FIRTransactionResult_Private.h

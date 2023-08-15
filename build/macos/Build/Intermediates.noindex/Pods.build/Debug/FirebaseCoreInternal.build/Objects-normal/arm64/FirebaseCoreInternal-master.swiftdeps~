@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "90e3408df483ba2e6c31d69fd8b3ed1f0055c9d9d906a97debdec4e6aba35ade"
+build_start_time: [1678321572, 60101032]
+build_end_time: [1678321572, 81223964]
+inputs:
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1678321541, 479042530]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1678321541, 479716777]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1678321541, 480193614]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1678321541, 480504035]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1678321541, 480925083]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1678321541, 479310274]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1678321541, 478710412]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1678321541, 481126546]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1678321541, 480735540]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1678321541, 479521751]
+  ? "/Users/arben/Documents/GitHub/HUDA_Clinic_Mobile/huda_clinic_mobile/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1678321541, 479927301]
